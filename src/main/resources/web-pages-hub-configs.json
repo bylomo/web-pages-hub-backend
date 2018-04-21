@@ -1,0 +1,32 @@
+{
+  "configs": [
+    {
+      "id": "127.0.0.1",
+      "interval": 1000,
+      "frames": [
+        {
+          "startTime": {
+            "hour": 23,
+            "minute": 0,
+            "second": 0
+          },
+          "endTime": {
+            "hour": 23,
+            "minute": 26,
+            "second": 0
+          },
+          "urls": [
+            {
+              "url": "https://conda.io/docs/",
+              "nInterval": 5
+            },
+            {
+              "url": "http://www.w3school.com.cn/",
+              "nInterval": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
